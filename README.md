@@ -4,7 +4,7 @@ During data preparation numerous tasks are performed and good tools are needed.
 
 Pandas is a Python library for data manipulation, wrangling and analysis of tabular and time series data and is designed to make data analysis fast and easy.
 
-In this PyLadies event we become more Pandas-savy - together.  
+In this Pyladies Hamburg event we become more Pandas-savy - together.  
 
 ## Panda Pocka
 We boost our panda skills with a Panda Pocka Game Cards. You can find the Game Cards in this repos as well.
