@@ -11,7 +11,8 @@ We boost our panda skills with a Panda Pocka Game Cards. You can find the Game C
 
 Inspired by Liberating Structures, we played Impromputu Networking with the Game Cards.  
 
-We also asessed our skills with the pandas merge command.
+We also asessed our skills with the pandas merge command. An interactive notebook of the quiz can be found here: https://mybinder.org/v2/gh/chalendony/wrangle/master
+
 
 We hope these tools help you spend more time gaining insights in your next project and less time manipulating your data.
 
