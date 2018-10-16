@@ -1,5 +1,4 @@
-# data-wrangling-with-pandas
-Data Wrangling with Pandas
+# Data Wrangling with Pandas
 
 During data preparation numerous tasks are performed and good tools are needed.
 
@@ -7,10 +6,12 @@ Pandas is a Python library for data manipulation, wrangling and analysis of tabu
 
 In this PyLadies event we become more Pandas-savy - together.  
 
+## Panda Pocka
 We boost our panda skills with a Panda Pocka Game Cards. You can find the Game Cards in this repos as well.
 
 Inspired by Liberating Structures, we played Impromputu Networking with the Game Cards.  
 
+## Pandas Merge 
 We also asessed our skills with the pandas merge command. An interactive notebook of the quiz can be found here: https://mybinder.org/v2/gh/chalendony/wrangle/master
 
 
