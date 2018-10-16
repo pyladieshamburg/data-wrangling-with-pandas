@@ -7,11 +7,11 @@ Pandas is a Python library for data manipulation, wrangling and analysis of tabu
 
 In this PyLadies event we become more Pandas-savy - together.  
 
-We boost our panda skills with a Panda Pocka Game Cards. You can find the Game Cards here: 
+We boost our panda skills with a Panda Pocka Game Cards. You can find the Game Cards in this repos as well.
 
-Inspired by Liberating Structures, we played Impromput Networking with the Game Cards.  
+Inspired by Liberating Structures, we played Impromputu Networking with the Game Cards.  
 
-We also made teams  to test our skills with the merge command.
+We also asessed our skills with the pandas merge command.
 
 We hope these tools help you spend more time gaining insights in your next project and less time manipulating your data.
 
