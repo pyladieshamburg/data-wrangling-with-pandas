@@ -14,3 +14,14 @@ Inspired by Liberating Structures, we played Impromputu Networking with the Game
 
 We hope these tools help you spend more time gaining insights in your next project and less time manipulating your data.
 
+## How to prepare for the game
+
+First print out the cards in the pdf, should be double sided, and you need to cut out.. and laminate if you feel creative
+
+## How to play it
+
+You need a timer. Each player picks (randomly) 5 cards and gets 15 mins to properly understand them. All tools are allowed. 
+
+When the time is up, teams of two are formed and in each team players chose a card from the other to have it explained. All the explained cards swap hands. When the time is up new teams are formed.. a player might have to explain a card they just got explained.. so they have to make sure they got it right :D
+
+We did about 3 rounds.
